@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Go to live](https://your-live-site-url.com)
+- Live Site URL: [Go to live](https://karaaa006.github.io/advice-generator-app/)
 
 ## My process
 
